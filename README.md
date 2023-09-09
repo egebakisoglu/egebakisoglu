@@ -1,5 +1,5 @@
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=python,java,flutter,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,flutter,dart,unity)](https://skillicons.dev)
 
 
 <!--
